@@ -1,0 +1,39 @@
+.color{
+    color: indigo;
+}
+.di{
+    background-color: blueviolet;
+    width: 20px;
+    height: 20px;
+}
+.h{
+    font-size: 70px;
+    line-height: 92px;
+}
+.center{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.img{
+    margin-right: 20px;
+}
+.te{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 48px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+.of{
+    margin-left: 40px;
+}
+.ce{
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
